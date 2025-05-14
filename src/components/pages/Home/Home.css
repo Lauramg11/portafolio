@@ -6,3 +6,6 @@
 .foto:hover{
     filter: grayscale(0%);
 }
+.section{
+    background-image: url("../");
+}

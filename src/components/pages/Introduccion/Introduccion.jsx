@@ -6,13 +6,13 @@ export function Introduccion(){
             <section className="container">
 
                 <div className="row">
-
+                    <h1 className="display-1-center">Laura Mosquera&copy;</h1>
                     <div className="col-12 col-md-7">
-                        <img src="../../../../src/assets/img/caricatura.png" alt="" className="img-fluid rounded"/>
+                            
+                        <img src="../../../../src/assets/img/Programadora.jpeg" alt="" className="img-fluid rounded"/>
                     </div>
-
                     <div className="col-12 col-md-5">
-                        <h1 className="display-1">Laura Mosquera&copy;</h1>
+                    
                         <p>
                             I am a software development student based in Medellín, passionate about building digital solutions that solve real-world problems. Throughout my academic journey, I have gained solid foundations in programming logic and the design of relational databases using SQL. I have also developed skills  in front-end technologies such as HTML, CSS, JavaScript, and React, enabling me to build responsive and user-friendly interfaces.
 
