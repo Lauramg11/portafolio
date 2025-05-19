@@ -2,8 +2,8 @@ import './Experiencia.css'
 export function Experiencia(){
 
     return(
-        <>
-      
+    <>
+    
             <section className="container">
                 <div className="row">
                     <div className="col-12 text-center">
@@ -22,10 +22,8 @@ export function Experiencia(){
                         <h3>LOGICA DE PROGRAMACION</h3>
                         <ul>
                             <li>Variables y Constante</li>
-                            <li>Tipos de Datos</li>
-                            <li>Operadores</li>
                             <li>Condicionales</li>
-                            <li>Ciclos y Bucles</li>
+                        
                         </ul>
                         <div className="row">
                             <div className="col-6">
@@ -65,12 +63,12 @@ export function Experiencia(){
                     </div>
                     </div>
             </section>
-      
+    
 
 
                 <center>
             <section className="container my-4">
-              
+            
                     <div className="col-6 card p-3">
                         <h3>USO DE GIT</h3>
                         <ul>
@@ -88,7 +86,7 @@ export function Experiencia(){
                         <div class="progress-bar barra">50%</div> 
                     </div>
                     </div>
-               
+            
             </section>
             </center>
 
@@ -112,7 +110,7 @@ export function Experiencia(){
                     </div>
             
             </section>
-         
+        
 
 
             <center>
@@ -135,7 +133,7 @@ export function Experiencia(){
                         <div class="progress-bar barra">70%</div> 
                     </div>
                     </div>
-              
+            
             </section>
         </center>
 

@@ -7,7 +7,9 @@ export function Home(){
             <section className="container">
                 <div className="row justify-content-center">
                     <div className="col-6">
+                        <center>
                         <h1>Laura Mosquera Gomez</h1>
+                        </center>
                         <hr />
                         <img src="../../../../src/assets/img/Laura.jpeg" alt="" className="img-fluid rounded shadow foto"/>
                         <hr />
