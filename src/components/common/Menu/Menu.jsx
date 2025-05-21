@@ -39,8 +39,8 @@ return (
                 </Link>
             </li>
             <li class="nav-item">
-                <Link class="nav-link disabled" aria-disabled="true" to='/Experiencia'>
-                Mi experiencia
+                <Link class="nav-link" aria-disabled="true" to='/Experiencia'>
+            Mi experiencia
                 </Link>
             </li>
             </ul>
